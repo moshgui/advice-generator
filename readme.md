@@ -17,7 +17,7 @@ Uma requisição HTTP é feita utilizando fetch() nativo para gerar conselhos al
 | `	https://api.adviceslip.com/advice` | `Returns a random advice slip as a slip object.` |
 
 ## Deploy
-<a href="https://advice-generator-in-js.netlify.app/" target="_blank>Clique aqui</a>
+<a href="https://advice-generator-in-js.netlify.app/" target="_blank"> Clique aqui</a>
 
 ## Paleta de cores 🌈
 
