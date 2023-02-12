@@ -18,7 +18,7 @@ body {
 }
 
 main.content-box {
-    max-width: 600px;
+    max-width: 37.5em;
     background-color: #003566;
     text-align: center;
     padding: 2rem;
@@ -64,6 +64,15 @@ button.nextPhrase:hover {
 
 button.nextPhrase:active {
     box-shadow: -1px 0px 15px 6px #5FF5EA;
+}
+
+.icon {
+    margin-left: 0.5rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 2rem;    
 }
 
 .scale-in-center {
