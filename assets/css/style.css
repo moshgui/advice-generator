@@ -18,7 +18,8 @@ body {
 }
 
 main.content-box {
-    max-width: 37.5em;
+    width: 37.5em;
+    height: 20em;
     background-color: #003566;
     text-align: center;
     padding: 2rem;
